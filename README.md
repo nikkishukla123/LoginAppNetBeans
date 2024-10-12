@@ -1,19 +1,20 @@
-# Java Login Application
-
-[![font](https://img.shields.io/badge/font-brightgreen)](https://docs.oracle.com/javase/8/docs/api/java/awt/Font.html)
-[![color](https://img.shields.io/badge/color-yellow)](https://docs.oracle.com/javase/8/docs/api/java/awt/Color.html)
-[![hashmap](https://img.shields.io/badge/hashmap-blue)](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
-[![jframe](https://img.shields.io/badge/jframe-orange)](https://docs.oracle.com/javase/8/docs/api/javax/swing/JFrame.html)
-[![actionevent](https://img.shields.io/badge/actionevent-red)](https://docs.oracle.com/javase/8/docs/api/java/awt/event/ActionEvent.html)
-[![jbutton](https://img.shields.io/badge/jbutton-purple)](https://docs.oracle.com/javase/8/docs/api/javax/swing/JButton.html)
-[![actionlistener](https://img.shields.io/badge/actionlistener-pink)](https://docs.oracle.com/javase/tutorial/uiswing/events/actionlistener.html)
-[![jlabel](https://img.shields.io/badge/jlabel-pink)](https://docs.oracle.com/javase/8/docs/api/javax/swing/JLabel.html)
-[![jpasswordfield](https://img.shields.io/badge/jpasswordfield-pink)](https://docs.oracle.com/javase/8/docs/api/javax/swing/JPasswordField.html)
-[![jtextfield](https://img.shields.io/badge/jtextfield-pink)](https://docs.oracle.com/javase/8/docs/api/javax/swing/JTextField.html)
+# Java Login Applicatio
 
 font color hashmap jframe actionevent jbutton actionlistener jlabel jpasswordfield jtextfield 
 
 This is a simple Java login application that demonstrates how to create a graphical user interface (GUI) for user authentication using `JFrame`, `JButton`, `JTextField`, `JPasswordField`, and `JLabel`.
+
+[![Static Badge](https://img.shields.io/badge/java.util.HashMap-orange)](https://mvnrepository.com/artifact/java.util.HashMap)
+[![Static Badge](https://img.shields.io/badge/java.awt.Color-black)](https://mvnrepository.com/artifact/java.awt.Color)
+[![Static Badge](https://img.shields.io/badge/java.awt.Font-pink)](https://mvnrepository.com/artifact/java.awt.Font)
+[![Static Badge](https://img.shields.io/badge/java.awt.event.ActionEvent-red)](https://mvnrepository.com/artifact/java.awt.event.ActionEvent)
+[![Static Badge](https://img.shields.io/badge/java.awt.event.ActionListener-purple)](https://mvnrepository.com/artifact/java.awt.event.ActionListener)
+[![Static Badge](https://img.shields.io/badge/java.util.HashMap-red)](https://mvnrepository.com/artifact/java.util.HashMap)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JButton-orange)](https://mvnrepository.com/artifact/javax.swing.JButton)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JFrame-gray)](https://mvnrepository.com/artifact/javax.swing.JFrame)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JLabel-blue)](https://mvnrepository.com/artifact/javax.swing.JLabel)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JPasswordField-purple)](https://mvnrepository.com/artifact/javax.swing.JPasswordField)
+[![Static Badge](https://img.shields.io/badge/javax.swing.JTextField-purple)](https://mvnrepository.com/artifact/javax.swing.JTextField)
 
 ## Table of Contents
 
